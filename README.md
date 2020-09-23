@@ -30,6 +30,7 @@ O programa fornece os valores das raizes de uma equação de segundo grau
 * Insira o valor de a
 * Insira o valor de b
 * iInsira o valor de c
- Primeiramente precisa ser feito uma verificação para saber se **a** é um valor não mulo, caso seja, retorna uma mensagem de erro, pedindo para fornecer novamente o valor de **a**
+
+Primeiramente precisa ser feito uma verificação para saber se **a** é um valor não mulo, caso seja, retorna uma mensagem de erro, pedindo para fornecer novamente o valor de **a**
 Depois, é necessario o calculo do delta e verificar se ele não é menor que 0, pois caso seja, não sera possivel o calculo das raizes da equação pois teriamos raizes complexas, e sse não é o objetivo desse programa básico.
 Caso passe em todos os testes lógicos, o programa calculará os valores das duas raizes e retornaram os dois resultados.
