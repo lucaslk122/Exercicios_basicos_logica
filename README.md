@@ -17,13 +17,13 @@ O programa possui alguns produtos já cadastrados, o usuario digita o código do
 * o programa retorna o valor a ser pago.
       Os produtos registrados foram:
       
-     codigo | produto | preço
-     ------ | --------| -----|
-      1     |Cachorro quente | R$4.00 |
-      2     | X-Salada |  R$4.50 |
-      3     |X-Tudo    | R$8.50 |
+     codigo | produto                     | preço
+     ------ | ----------------------------| -------|  
+      1     |Cachorro quente              | R$4.00 |
+      2     | X-Salada                    | R$4.50 |
+      3     |X-Tudo                       | R$8.50 |
       4     |X - Super lanche super Vegan | R$5.00 |
-      5     | Refrigerante | R$1.50 |
+      5     | Refrigerante                | R$1.50 |
       
 ### Exercicio 4 : Calculo das raizes de uma equação de segundo grua.
 O programa fornece os valores das raizes de uma equação de segundo grau
